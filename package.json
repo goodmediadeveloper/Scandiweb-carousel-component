@@ -1,0 +1,23 @@
+{
+  "name": "scandiweb-carousel-component",
+  "version": "1.0.0",
+  "description": "A carousel component, that support next opportunities: work for mobile and desktop devices, support swipe work for any HTML content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodmediadeveloper/Scandiweb-carousel-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodmediadeveloper/Scandiweb-carousel-component/issues"
+  },
+  "homepage": "https://github.com/goodmediadeveloper/Scandiweb-carousel-component#readme",
+  "devDependencies": {
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
